@@ -1,3 +1,3 @@
-JavaScript-example</ br>
+##JavaScript-example<br>
 =====
-1<a href="http://www.baidu.com">js图片库</a>
+1.<a href="http://www.baidu.com">js图片库</a>
