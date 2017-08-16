@@ -1,0 +1,52 @@
+*{padding: 0;margin: 0;}
+body{
+	background:#6F8EE6;
+	font-size: 23px;
+	font-family: "copperplate gothic bold" arial;
+	color: #FFFFFF;
+	border-style: none;
+}
+nav{
+	width: 800px;
+	margin: 20px auto;
+	font-weight: 800;
+}
+ul{
+	text-align: center;
+	vertical-align: middle;
+}
+ul li{
+	display: inline-block;
+	padding: 0 20px;
+	color: #fff;
+}
+a:hover,a:active,a:link,a:visited{
+	text-decoration: none;
+	color: #fff;
+}
+img{
+	width: 400px;
+	height: 300px;
+	display: block;
+	margin: 20px auto 0px;	
+	padding: 0px;
+	border: 0px #6F8EE6;
+}
+img[src=""]{opacity: 0;}
+span{
+	display: block;
+	margin: 0px auto 10px;
+	text-align: center;
+	padding: 0px;
+}
+ul h3{
+	margin: 30px;
+}
+ul li a img{
+	display: inline-block;
+	width: 100px;
+	height: 70px;
+}
+.dicPic{
+	text-align: center;
+}
